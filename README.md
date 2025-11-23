@@ -1,0 +1,2 @@
+# nonebot_plugin_pjskbirthday
+一个偏向个人用的nb2生日推送插件pjsk角色版
